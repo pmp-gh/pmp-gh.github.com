@@ -20,10 +20,9 @@
 
 title: Pradeep M. Pappachan 
 #email: pradeep.m.pappachan@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/notes" # the subpath of your site, e.g. /blog
+#description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://pmp-gh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
 github_username:  pmp-gh
 
 # Build settings
