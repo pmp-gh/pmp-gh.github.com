@@ -37,7 +37,7 @@ Notes
 * Security
 * Programming Languages
 * Artificial Intelligence
-* Practical Stuff 
+* HOWTO ... 
 
 ### Physics
 * Mechanics
