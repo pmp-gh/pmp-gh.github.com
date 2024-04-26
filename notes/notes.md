@@ -2,8 +2,8 @@ Notes
 =====
 
 ### High School
-* Algebra
-* Geometry
+* [Algebra](./high_school/algebra.md)
+* [Geometry](./high_school/geometry.md)
 * Number Theory
 * Probability and Statistics
 * Physics
@@ -37,7 +37,7 @@ Notes
 * Security
 * Programming Languages
 * Artificial Intelligence
-* HOWTO ... 
+* [HOWTO ...](./computing/howto.md) 
 
 ### Physics
 * Mechanics
