@@ -148,6 +148,7 @@ HOWTOs
   ```git will apply commits from <branch-name>```  
 * ```git push -u origin <branch name> // track branch on remote```
 * ```git pull // sync with main branch on remote```
+* ```git config --global credential.helper store // enable credential storage```
 
 ---
 
