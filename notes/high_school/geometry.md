@@ -4,10 +4,10 @@ High School Geometry
 ### Angles
   <img src="./geometry_figs/par_lines_angles.png" align="right" width="200"/>
 * Angles formed when a transversal intersects two parallel lines  
-  * Corresponding angles are equal: $a=e,d=h,b=f,c=g$  
-  * Alternate interior angles are equal: $d=f, c=e$  
-  * Interior angles are supplementary $c+f=180^\circ, d+e=180^\circ$
-  * Vertical angles are equal: $a=c, b=d, e=g, f=h$ 
+  Corresponding angles are equal: $a=e,d=h,b=f,c=g$  
+  Alternate interior angles are equal: $d=f, c=e$  
+  Interior angles are supplementary $c+f=180^\circ, d+e=180^\circ$  
+  Vertical angles are equal: $a=c, b=d, e=g, f=h$  
 
 ### Triangles
 * Theorem: The sum of the angles of a triangle is $180^\circ$.
