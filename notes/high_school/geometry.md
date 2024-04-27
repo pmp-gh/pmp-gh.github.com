@@ -43,8 +43,6 @@ High School Geometry
 
 ### Three-Dimensional Geometry
 
-### Transformations
-
 ### Analytic Geometry
 
 ### Trigonometry
