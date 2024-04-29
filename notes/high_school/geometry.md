@@ -188,6 +188,30 @@ High School Geometry
 * Theorem: The opposite angles of any cyclic quadrilateral sum to $180^\circ$.
 
 ### Transformations
+<img src="./geometry_figs/transformations.png" align="right" width="350"/>
+* Transformation is the process of applying a rule to each point of a figure to obtain 
+  a new figure (its image/transformation). If the original figure is congruent to the image
+  it is a rigid transformation or isometry.
+* Translation maps every point to a point that is a constant distance in a given direction. 
+  It can be modelled by a translation vector, which has magnitude and direction. For example, 
+  the transformation $(x, y) \rightarrow (x + h, y + k)$ is a translation, where $h$ and $k$ 
+  are constants. See figure (a).
+* Reflection maps every point to a point on the other side of a line called the axis of 
+  reflection. For example, the transformation $(x, y) \rightarrow (-x, y)$ reflects a figure 
+  about the $y$ axis. The axis of reflection is the perpendicular bisector of the segment
+  joining a point with its image. See figure (b).
+* Rotation maps every point to a point that is obtained by rotating the segment containing
+  the point and the point that lies (in the plane) on the axis of rotation. If a figure can be
+  rotated by a certain angle so that the image of the figure coincides with the figure, it 
+  is said to have rotational symmetry. See figure (c).
+* A composition of two transformations $f$ ang $g$ is obtained by first applying the transformation 
+  $g$ and then applying the transformation $f$ on the result.
+* A composition of two relfections over two parallel lines is equivalent to a single translation. 
+  The distance from any point to its second image under the two reflections is twice the distance
+  between the parallel lines. See figure (d).
+* A composition of two reflections over a pair intersecting lines is equivalent to a single 
+  rotation. The angle of rotation is twice the acute angle between the pair of intersecting 
+  reflection lines. See figure (e).
 
 ### Three-Dimensional Geometry
 * The volume of a three dimenstional figure is a measure of the spece inside the figure.
