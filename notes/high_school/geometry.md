@@ -46,7 +46,7 @@ High School Geometry
 * The median of a triangle connects a vertex of the triangle to the midpoint of
   the opposite side. The medians of a triangle are concurrent at a point called
   the centroid $G$ of the tirangle. The medians of a triangle divide the triangle
-  into 6 triangles with equal area. The centroid cuts the mediats into a $2:1$
+  into 6 triangles with equal area. The centroid cuts the medians into a $2:1$
   ratio.  See figure (c). $\frac{AG}{GD} = \frac{BG}{GE} = \frac{CG}{GF} =
   \frac{2}{1}$.
 * The altitudes of a triangle (extended if necessary) are concurrent at the
@@ -54,7 +54,7 @@ High School Geometry
   inside the triangle. The orthocenter of a right triangle is the vertex of the
   right angle. The orthocenter of an obtuse triangle is outside the triangle.
 * The circumcenter of a right triangle is the midpoint of its hypotenuse, and
-  the circum radius is one-half the hypotenuse. The median to the hypotenuse is
+  the circumradius is one-half the hypotenuse. The median to the hypotenuse is
   equal in length to half the hypotenuse. See figure (e).
 * Given any three non-collinear points, there is exactly one circle that passes
   through them.
@@ -145,7 +145,7 @@ High School Geometry
 </table>
 
 ### Perimeter and Area
-* The perimeter of a an n-gon is the sum of its sides.
+* The perimeter of an n-gon is the sum of its sides.
 * The area of a figure is the number of unit squares that make up the figure.
 * Area of a regular n-gon with side $s$ and apothem $a$ is $\frac{1}{2}nsa$.
 * Areas of common polygons are given below.
@@ -213,7 +213,7 @@ High School Geometry
 * The angle inscribed in a semicircle is $90^\circ$.
 * Any two angles inscribed in the same arc are equal.
 * Theorem: The measure of the angle formed by two intersecting chords is the
-  average of the measues of the arcs intersected by the chords. In figure (b):
+  average of the measures of the arcs intersected by the chords. In figure (b):
   $\angle PTS = \angle QTR = \frac{\widehat{PS} + \widehat{QR}}{2}$.
 * Theorem: Two secants that meet at a point outside a circle form an eangle
   equal to half the difference of the arcs they intercept. In figure (c):
@@ -228,7 +228,7 @@ High School Geometry
   \widehat{BC}}{2}$.
 * Theorem: The angle formed by two tangents is half the difference of the
   intercepted arcs. Similar to previous theorem.
-* Theorem: The length of two tangent sements from the same point to a circle are
+* Theorem: The length of two tangent segments from the same point to a circle are
   equal.
 * A cyclic quadrilateral is a quadrilateral that can be inscribed in a circle.
 * Theorem: The opposite angles of any cyclic quadrilateral sum to $180^\circ$.
@@ -250,9 +250,9 @@ High School Geometry
   the point and the point that lies (in the plane) on the axis of rotation. If a figure can be
   rotated by a certain angle so that the image of the figure coincides with the figure, it 
   is said to have rotational symmetry. See figure (c).
-* A composition of two transformations $f$ ang $g$ is obtained by first applying the transformation 
+* A composition of two transformations $f$ and $g$ is obtained by first applying the transformation 
   $g$ and then applying the transformation $f$ on the result.
-* A composition of two relfections over two parallel lines is equivalent to a single translation. 
+* A composition of two reflections over two parallel lines is equivalent to a single translation. 
   The distance from any point to its second image under the two reflections is twice the distance
   between the parallel lines. See figure (d).
 * A composition of two reflections over a pair intersecting lines is equivalent to a single 
@@ -260,12 +260,12 @@ High School Geometry
   reflection lines. See figure (e).
 
 ### Three-Dimensional Geometry
-* The volume of a three dimenstional figure is a measure of the spece inside the figure.
+* The volume of a three dimensional figure is a measure of the space inside the figure.
 * The total surface area of a figure is the total area of all the surfaces that form the 
   boundaries of the figure.
 * The lateral surface area is the total area of all the surfaces that are not considered 'bases'.
 * A polyhedron is a solid figure with polygons as its boundaries.
-* A regular polyhedron is a onw whose faces are all congruent regular polygons.
+* A regular polyhedron is a one whose faces are all congruent regular polygons.
 * Euler's Formula for Polyhedra: $V + F = E + 2$, where $V$ is the number of vertices, 
   $F$ is the number of faces, $E$ is the number of edges.
 * A prism has two congruent parallel faces as bases and all remaining faces are parallelograms.
@@ -419,23 +419,14 @@ High School Geometry
   important variable.
 * Assign variables to important angles and use basic geometry to express other
   angles in terms of those variables. Typically, you should assign variables to
-  angles you seek and to angles you kjnow a lot about. 
+  angles you seek and to angles you know a lot about. 
 * Once you start chasing angles, reach for all the angle tools you know, most
   notably the facts you know about triangles, straight lines, parallel lines,
   and angles that intersect circles. 
 * When trying to find a geometric proof, keep careful track of what you know and
   what you want.
-* Draw large, precis diagrams, - trnagle congruences, parallel lines, collinear
+* Draw large, precise diagrams, - triangle congruences, parallel lines, collinear
   points, and much, much more stand out more clearly in large, precise diagrams
   than in small, scribbled ones.
 * Compare new problems to problems you have already solved.
-
-
-
-   
-    
-  
-  
-  
-  
 
