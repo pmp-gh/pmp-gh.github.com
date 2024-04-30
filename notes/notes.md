@@ -4,26 +4,29 @@ Notes
 ### High School
 * [Algebra](./high_school/algebra.md)
 * [Geometry](./high_school/geometry.md)
-* Number Theory
+* Combinatorics and Number Theory
 * Probability and Statistics
 * Physics
 * Chemistry
 * Biology
+* World History
+* Economics
 
 ### Math
-* Logic
 * Calculus
 * Differential Equations
 * Linear Algebra
 * Probability
 * Statistics
+* Logic and Set Theory
 * Number Theory
-* Analysis
+* Real Analysis
+* Complex Analysis
 * Algebra
 * Topology
 
 ### Applied Math
-* Modelling
+* Mathematical Modeling 
 * Information Theory
 * Coding Theory
 * Signals and Systems
@@ -32,26 +35,15 @@ Notes
 ### Computing
 * Theory of Computation 
 * Algorithms
-* Cryptography
+* Programming Languages
 * Architecture
 * Systems
-* Security
-* Programming Languages
+* [Cryptography](./computing/crypto.md)
+* Security and Privacy
 * Artificial Intelligence
 * [HOWTO ...](./computing/howto.md) 
 
-### Physics
-* Mechanics
-* Special Relativity
-* Waves
-* Thermodynamics
-* Electricity
-* Optics
-* Quantum Mechanics
-
-### Miscellany
-* Economics
-* World History
+### Misc.
 * Philosophy
 * Literature
 * Chess
