@@ -33,6 +33,7 @@ Notes
 * Theory of Computation 
 * Algorithms
 * Cryptography
+* Architecture
 * Systems
 * Security
 * Programming Languages
