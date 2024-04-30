@@ -122,7 +122,7 @@ HOWTOs
 * ```<ESC>v // select block```
 * ```> // indent block```
 * ```:set nu // line numbering```
-* ```:set textwidth=N // hard wrap```
+* ```:set textwidth=N // hard wrap (also, visual highlight, gq)```
 * ```:set tabstop=N // tab size```
 
 ---
