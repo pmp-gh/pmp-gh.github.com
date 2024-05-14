@@ -147,7 +147,8 @@ High School Geometry
 ### Perimeter and Area
 * The perimeter of an n-gon is the sum of its sides.
 * The area of a figure is the number of unit squares that make up the figure.
-* Area of a regular n-gon with side $s$ and apothem $a$ is $\frac{1}{2}nsa$.
+* Area of a regular n-gon with side $s$ and apothem $a$ is $\frac{1}{2}nsa =
+  \frac{1}{2}Pa$, where $P$ is the perimeter.
 * Areas of common polygons are given below.
 
 <table class = "center" border="1">
@@ -192,12 +193,14 @@ High School Geometry
   given point (center).
 * A chord is a segment intersecting the circle in two points. The diameter is
   the largest chord and it passes through the center.
+* The perpendicular from the center of a circle to a chord bisects it.
+* Congruent chords are equidistant from the center.
 * A secant is a line intersecting a circle in two points.
 * A tangent is a line intersecting a circle in one point.
 * The portion of a circle that connects two points is an arc; e.g.,
   $\widehat{AB}$ denotes arc joining $A$ and $B$ on the circle.
-* The angle made by the radii joining the endpoints of an arc with the center is
-  called the measure of the arc.
+* The measure of the angle (central angle) made by the radii joining the 
+  endpoints of an arc with the center is called the measure of the arc.
 * The length of an arc of measure $\theta$ in a circle of radius $r$ is
   $\frac{\theta}{360^\circ}2\pi r$.
 * The portion of a circle between two radii is called a sector.
@@ -207,7 +210,7 @@ High School Geometry
   area is $\pi r^2$.
 * The area of a sector corresponding to an arc of measure $\theta$ is
   $\frac{\theta}{360^\circ}\pi r^2$.
-* A angle formed by two chords is inscribed in the angle it cuts off.
+* A angle formed by two chords is inscribed in the arc it cuts off.
 * Inscribed Angle Theorem: An inscribed agnle equals $\frac{1}{2}$ the measure
   of the intercepted arc.  In figure (a): $\angle PQR = \frac{\widehat{PR}}{2}$.
 * The angle inscribed in a semicircle is $90^\circ$.
@@ -260,11 +263,16 @@ High School Geometry
   reflection lines. See figure (e).
 
 ### Three-Dimensional Geometry
+<img src="./geometry_figs/polyhedra_ex.png" align="right" width="350"/>
 * The volume of a three dimensional figure is a measure of the space inside the figure.
 * The total surface area of a figure is the total area of all the surfaces that form the 
   boundaries of the figure.
-* The lateral surface area is the total area of all the surfaces that are not considered 'bases'.
-* A polyhedron is a solid figure with polygons as its boundaries.
+* The lateral surface area is the total area of all the surfaces that are not 
+  considered 'bases'.
+* A polyhedron is a solid figure with polygons as its boundaries. Examples:
+  Tetrahedron (4 faces), hexahedron (6 faces), septahedron (7 faces), decahedron
+  (10 faces), and dodecahedraon (12 faces). A cube is a hexahedron and so is a
+  pentagonal pyramid.
 * A regular polyhedron is a one whose faces are all congruent regular polygons.
 * Euler's Formula for Polyhedra: $V + F = E + 2$, where $V$ is the number of vertices, 
   $F$ is the number of faces, $E$ is the number of edges.
@@ -272,6 +280,8 @@ High School Geometry
 * A pyramid is formed by connecting all the vertices of a polygon to a point (apex) that is not 
   in the same plane as the polygon (base). The height of the pyramid is the distance from the 
   apex to the base. The slant height is the distance from the apex to a side of the base.
+
+<img src="./geometry_figs/3d_solids.png" align="center" width="500"/>
 * The volumes and surfaces areas of common three-dimensional figures are given below.
 
 <table border="1">
