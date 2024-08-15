@@ -1,6 +1,12 @@
 HOWTOs
 ======
 
+### Github Pages
+* ```My site: https://pmp-gh.github.io/```
+* ```Theme: https://github.com/pages-themes/minimal```
+* ```Preview locally: Run bundle exec jekyll serve to start the preview server```
+* ```Load localhost:4000 in browser```
+
 ### Linux Commands/Utils
 #### Files/Dir
 * ```ls -lta```
