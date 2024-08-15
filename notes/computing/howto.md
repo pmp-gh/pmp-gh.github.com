@@ -218,10 +218,10 @@ target_link_libraries(${CMAKE_PROJECT_TARGET} PRIVATE baz)
 * ```disable <bp>```
 * ```enable <bp>```
 * ```set <var>=<value>```
-* ```step \\ step into```
-* ```next \\ step over```
+* ```step // step into```
+* ```next // step over```
 * ```call <func>```
-* ```finish \\ finish executing current function```
+* ```finish // finish executing current function```
 * ```continue // resume execution until next bp```
 * ```where // shows current call stack```
 * ```frame // shows current stack frame```
