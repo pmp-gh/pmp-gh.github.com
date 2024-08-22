@@ -35,7 +35,7 @@ Notes
 ### Computing
 * Theory of Computation 
 * Algorithms
-* Programming Languages
+* [Programming Languages](./computing/pl/pl.md)
 * Architecture
 * Systems
 * [Cryptography](./computing/crypto.md)
