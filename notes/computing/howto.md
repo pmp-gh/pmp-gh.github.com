@@ -263,7 +263,7 @@ target_link_libraries(${CMAKE_PROJECT_TARGET} PRIVATE baz)
 
 ---
 
-### Graphics 
+### Display + Graphics 
 
 #### VNC
 * ```Server```  
